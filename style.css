@@ -1,0 +1,9 @@
+body
+{
+	background-image: url('clouds.jpg');
+	background-size: contain no-repeat;
+}
+#carouselExampleIndicators
+{
+	width: 1000px;
+}
